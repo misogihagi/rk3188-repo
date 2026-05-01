@@ -1,0 +1,29 @@
+15:45:23 490	Load Setting ok
+15:45:23 584	RKAndroidTool v1.3.7.0 Start Run
+15:45:23 584	Scan thread:6800
+15:45:23 600	Info:(thread=8860)IoControlProc-->DeviceIoControl In
+15:45:23 631	ProcessID:5660,ThreadID:11240,RefCount:0
+15:45:23 631	ProcessID:5660,ThreadID:10324,RefCount:0
+15:45:23 647	ProcessID:5660,ThreadID:6800,RefCount:0
+15:45:23 647	ProcessID:5660,ThreadID:8860,RefCount:0
+15:45:23 740	Info:(thread=8860)IoControlProc-->DeviceIoControl Out,ret=1,err=183
+15:45:40 818	Info:wait for exiting scan thread start
+15:45:41 068	Info:wait for exiting main thread start
+15:45:41 100	ProcessID:5660,ThreadID:11240,RefCount:0
+15:45:41 115	ProcessID:5660,ThreadID:10324,RefCount:0
+15:45:41 115	ProcessID:5660,ThreadID:10692,RefCount:0
+15:45:41 131	ProcessID:5660,ThreadID:8872,RefCount:0
+15:45:41 147	ProcessID:5660,ThreadID:7136,RefCount:0
+15:50:09 256	Load Setting ok
+15:50:09 334	RKAndroidTool v1.3.7.0 Start Run
+15:50:09 350	Scan thread:10508
+15:50:09 365	Info:(thread=11016)IoControlProc-->DeviceIoControl In
+15:50:09 381	ProcessID:11196,ThreadID:9688,RefCount:0
+15:50:09 381	ProcessID:11196,ThreadID:10960,RefCount:0
+15:50:09 397	ProcessID:11196,ThreadID:10508,RefCount:0
+15:50:09 397	ProcessID:11196,ThreadID:11016,RefCount:0
+15:50:09 506	Info:(thread=11016)IoControlProc-->DeviceIoControl Out,ret=1,err=183
+15:50:32 022	Info:wait for exiting scan thread start
+15:50:32 240	Info:wait for exiting main thread start
+15:50:32 272	ProcessID:11196,ThreadID:9688,RefCount:0
+15:50:32 272	ProcessID:11196,ThreadID:10960,RefCount:0

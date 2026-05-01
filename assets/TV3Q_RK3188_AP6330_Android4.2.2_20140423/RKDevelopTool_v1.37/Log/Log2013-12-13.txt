@@ -1,0 +1,46 @@
+14:52:56 196	Load Setting ok
+14:52:56 336	RKAndroidTool v1.3.7.0 Start Run
+14:52:56 352	Scan thread:14228
+14:52:56 368	Info:(thread=13664)IoControlProc-->DeviceIoControl In
+14:52:56 383	ProcessID:14168,ThreadID:14136,RefCount:0
+14:52:56 415	ProcessID:14168,ThreadID:13728,RefCount:0
+14:52:56 430	ProcessID:14168,ThreadID:14228,RefCount:0
+14:52:56 446	ProcessID:14168,ThreadID:13664,RefCount:0
+14:52:56 508	Info:(thread=13664)IoControlProc-->DeviceIoControl Out,ret=1,err=183
+14:55:08 430	Image Thread Path(\\?\USB#VID_2207&PID_310B#6&180D563E&0&1#{a5dcbf10-6530-11d2-901f-00c04fb951ed}),ThreadID=11224
+14:55:08 461	INFO:执行开始
+14:55:08 461	INFO:开始测试设备
+14:55:08 493	INFO:测试设备成功
+14:55:08 508	INFO:开始下载文件
+14:55:08 524	INFO: Start to download files to flash,backup offset=0x24000
+14:55:08 540	INFO:开始下载文件到Flash
+14:55:08 540	Info:RKA_File_Download start,file=misc,offset=0x2000
+14:55:08 586	Info:RKA_File_Download start,file=recovery,offset=0x14000
+14:55:10 899	INFO: Download files to flash finished,Total(11534336)B
+14:55:10 899	INFO: Start to check data
+14:55:10 915	INFO:开始校验下载数据
+14:55:10 930	Info:RKA_File_Check start,file=misc,offset=0x2000
+14:55:10 946	Info:RKA_File_Check start,file=recovery,offset=0x14000
+14:55:11 790	INFO:下载文件成功,耗时(3265MS)
+14:55:11 805	INFO:执行成功
+14:57:17 961	Image Thread Path(\\?\USB#VID_2207&PID_310B#6&180D563E&0&1#{a5dcbf10-6530-11d2-901f-00c04fb951ed}),ThreadID=12336
+14:57:17 977	INFO:执行开始
+14:57:17 993	INFO:开始测试设备
+14:57:18 024	INFO:测试设备成功
+14:57:18 040	INFO:开始下载文件
+14:57:18 086	INFO: Start to download files to flash,backup offset=0x24000
+14:57:18 102	INFO:开始下载文件到Flash
+14:57:18 149	Info:RKA_File_Download start,file=misc,offset=0x2000
+14:57:18 227	Info:RKA_File_Download start,file=recovery,offset=0x14000
+14:57:20 305	INFO: Download files to flash finished,Total(11534336)B
+14:57:20 305	INFO: Start to check data
+14:57:20 336	INFO:开始校验下载数据
+14:57:20 352	Info:RKA_File_Check start,file=misc,offset=0x2000
+14:57:20 399	Info:RKA_File_Check start,file=recovery,offset=0x14000
+14:57:21 274	INFO:下载文件成功,耗时(3204MS)
+14:57:21 305	INFO:执行成功
+19:05:08 258	Info:wait for exiting scan thread start
+19:05:08 555	Info:wait for exiting main thread start
+19:05:08 571	ProcessID:14168,ThreadID:14136,RefCount:0
+19:05:08 586	ProcessID:14168,ThreadID:14228,RefCount:0
+19:05:08 602	ProcessID:14168,ThreadID:13668,RefCount:0
